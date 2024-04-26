@@ -3502,23 +3502,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\v-kkokkili\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hp\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Kiran-Test\\API\\API\\WebApplication1\\API.csproj",
+      "projectUniqueName": "D:\\API-Test\\API\\WebApplication1\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Kiran-Test\\API\\API\\WebApplication1\\API.csproj",
-      "packagesPath": "C:\\Users\\v-kkokkili\\.nuget\\packages\\",
-      "outputPath": "D:\\Kiran-Test\\API\\API\\WebApplication1\\obj\\",
+      "projectPath": "D:\\API-Test\\API\\WebApplication1\\API.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "D:\\API-Test\\API\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\v-kkokkili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3526,9 +3522,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://itsals.pkgs.visualstudio.com/DefaultCollection/_packaging/ASInternal/nuget/v3/index.json": {},
-        "https://itsals.pkgs.visualstudio.com/DefaultCollection/_packaging/FlightOperations/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -3580,7 +3574,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
